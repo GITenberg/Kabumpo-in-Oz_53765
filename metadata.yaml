@@ -1,0 +1,51 @@
+_repo: Kabumpo-in-Oz_53765
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Neill, John R. (John Rea)
+    alias: Neill, John Rea
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '26521'
+    url: http://www.gutenberg.org/2009/agents/26521
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+  other_contributor:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Akers, Floyd
+    - Staunton, Schuyler
+    - Metcalf, Suzanne
+    - Bancroft, Laura
+    - Fitzgerald, Capt. Hugh
+    - Baum, Lyman Frank
+    - Cooke, John Estes
+    - Van Dyne, Edith
+    - Fitzgerald, Hugh
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+creator:
+  author:
+    agent_name: Thompson, Ruth Plumly
+    birthdate: 1893
+    deathdate: 1976
+    gutenberg_agent_id: '34661'
+    url: http://www.gutenberg.org/2009/agents/34661
+description: ''
+gutenberg_issued: '2016-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Oz (Imaginary place) -- Juvenile fiction'
+- GITenberg
+title: Kabumpo in Oz
+url: http://www.gutenberg.org/ebooks/53765
